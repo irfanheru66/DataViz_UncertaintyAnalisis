@@ -1,0 +1,4 @@
+outs:
+- md5: 215682111ccc6220d41e48eab681443a
+  size: 17064145
+  path: mobilenetV3_64_sigmoidTest.pth
